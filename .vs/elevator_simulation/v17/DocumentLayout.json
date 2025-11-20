@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Source.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\Source.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\SimulationController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\SimulationController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\Request.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\OutputDispatcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\OutputDispatcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\InputDispatcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\InputDispatcher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\Buffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC74462-7713-4A63-9A52-B00EDA4F9D96}|elevator_simulation\\elevator_simulation.vcxproj|solutionrelative:elevator_simulation\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Source.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\Source.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Source.h",
+              "RelativeToolTip": "elevator_simulation\\Source.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:44:51.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationController.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\SimulationController.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\SimulationController.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\SimulationController.h",
+              "RelativeToolTip": "elevator_simulation\\SimulationController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:43:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Request.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Request.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\Request.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Request.h",
+              "RelativeToolTip": "elevator_simulation\\Request.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:42:49.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutputDispatcher.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\OutputDispatcher.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\OutputDispatcher.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\OutputDispatcher.h",
+              "RelativeToolTip": "elevator_simulation\\OutputDispatcher.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:42:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputDispatcher.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\InputDispatcher.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\InputDispatcher.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\InputDispatcher.h",
+              "RelativeToolTip": "elevator_simulation\\InputDispatcher.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:40:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Event.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\Event.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Event.h",
+              "RelativeToolTip": "elevator_simulation\\Event.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:39:41.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Device.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Device.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\Device.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Device.h",
+              "RelativeToolTip": "elevator_simulation\\Device.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:38:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buffer.h",
+              "DocumentMoniker": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Buffer.h",
+              "RelativeDocumentMoniker": "elevator_simulation\\Buffer.h",
+              "ToolTip": "C:\\Users\\DNSuser\\source\\repos\\elevator_simulation\\elevator_simulation\\Buffer.h",
+              "RelativeToolTip": "elevator_simulation\\Buffer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T19:37:22.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
